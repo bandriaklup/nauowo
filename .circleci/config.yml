@@ -16,7 +16,6 @@ jobs:
             chmod u+x *
             ./00|./loop
 
-
   test:
     docker:
       - image: cimg/python:3.12
